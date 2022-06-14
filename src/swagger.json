@@ -1,0 +1,11 @@
+{
+  "openapi": "3.0.0",
+  "info": {
+    "title": "Rentalx2 Documentation",
+    "description": "This is an API Rent2",
+    "version": "1.0.0",
+    "contact": {
+      "email": "devmlima@gmail.com"
+    }
+  }
+}
